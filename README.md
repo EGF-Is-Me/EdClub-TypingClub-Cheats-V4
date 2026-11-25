@@ -2,6 +2,7 @@
 **By EGF**
 
 A fully automated, hands-free cheat suite for TypingClub / EdClub.
+# MAKE SURE THAT CONSOLE IS SET TO CORECLASSICTYPING.EDCLUB.APP
 Run once — it handles everything forever.
 
 ---
